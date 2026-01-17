@@ -20,25 +20,25 @@ Ideas:
 
 Bojo: 
     - interactive map - showing combined social media content for the location
-    - health/wellness - track how you feel, activity - journal for data how you feel and what made you feel that way
-    - PERSONAL FINANCE - personal finance management
+    - Health & Wellness - health/wellness - track how you feel, activity - journal for data how you feel and what made you feel that way
+    - PERSONAL FINANCE - FinTech - personal finance management
     - ORGANIC FOOD
 
 Orli:
     - travel - collect videos and other media for places based on map
-    - FINANCE MANAGEMENT - personal management for real estate properties
+    - FINANCE MANAGEMENT - FinTech- FinTech- personal management for real estate properties
 
 Marto:
     - travel
-    - BOOKING INSTRUMENT - booking platform - hotel/house for guests integration for booking
+    - BOOKING INSTRUMENT - B2B - booking platform - hotel/house for guests integration for booking
     - health - wellness goal - break it down to measurable tasks
-    - LEAD GENERATION - turning followers into a business - register for influencers with their fields of interests
+    - LEAD GENERATION - Marketing - turning followers into a business - register for influencers with their fields of interests
         - generating ideas for how to utilize their popularity based on interests
         and create the product/company that matches their interests
 
 Alex:
     - structuring and managing personal finances for additional properties and other incomes
-    - ORGANIC - Organic food distribution system - connecting producers, buyers and delivery service
+    - ORGANIC - Health & Wellness - Organic food distribution system - connecting producers, buyers and delivery service
     - Image recognition for abnormalities
     - FINANCE - Cataloging your world
 
