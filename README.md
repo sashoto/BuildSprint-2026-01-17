@@ -1,9 +1,3 @@
-Alex - +359-886-39-32-16
-Bojo - +359-878-52-14-66
-Orli - +359-889-92-16-69
-Marto - +359-883-39-23-14
-
-
 Interests:
 
 Alex - software, gardening, interface for automation, real estate management, 6 kids
